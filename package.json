@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Jordan-Gilliam/airbnbit#readme",
   "dependencies": {
+    "bitpay-node": "0.0.4",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "handlebars": "^4.0.11",
